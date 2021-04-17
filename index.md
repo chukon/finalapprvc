@@ -16,7 +16,7 @@ Working Title
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](http://google.com) and ![Image]("lion.jpeg")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
